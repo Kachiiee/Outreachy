@@ -1,1 +1,1 @@
-# Outreachy
+Make a few git commits with changes to this data, including adding and removing rows. In a separate repository, write a parser in your preferred programming language, which reads the data into a native structure in memory. Now build a "time machine" that plays back the data repository's git history and parses the data at each commit, storing the entire sequence in memory along with the timestamp of the git commit.
